@@ -1,0 +1,21 @@
+Accession	Order	Cultivar	Species	Ploidy	Shape	Color	Group	HiFi_Gb	HiFi_Length	HiC_Gb
+HPSI_003	1	INDONESIAN SEEDLESS	Psidium guajava	3	21	#BCB0CC	Psidium guajava (3n)	30.67	15131.8	32.95
+HPSI_027	2	J.B. WHITE	Psidium guajava	2	21	#9AD0F3	Psidium guajava (2n)	38.46	18509.15	39.84
+HPSI_060	3	KLOM TOONKLAO	Psidium guajava	2	21	#9AD0F3	Psidium guajava (2n)	32.33	17538.7	37.89
+HPSI_041	4	THAI MAROON	Psidium guajava	2	21	#9AD0F3	Psidium guajava (2n)	30.09	17442.35	22.15
+HPSI_019	5	KONA 1	Psidium guajava	2	21	#9AD0F3	Psidium guajava (2n)	22.8	18456.7	32.43
+HPSI_007	6	PINK ACID	Psidium guajava	2	21	#9AD0F3	Psidium guajava (2n)	28.21	16471.2	45.94
+HPSI_068	7	GEMA DE DORO	Psidium guajava	2	21	#9AD0F3	Psidium guajava (2n)	18.4	6405.2	21.84
+HPSI_065	8	THAILAND	Psidium guajava	2	21	#9AD0F3	Psidium guajava (2n)	18.03	5865.25	13.73
+HPSI_037	9	BEAUMONT	Psidium guajava	2	21	#9AD0F3	Psidium guajava (2n)	44.33	17738.3	12.82
+HPSI_035	10	KA HUA KULA	Psidium guajava	2	21	#9AD0F3	Psidium guajava (2n)	18.94	16196.8	36.29
+HPSI_016	11	PUERTO RICO 2	Psidium guajava	2	21	#9AD0F3	Psidium guajava (2n)	21.9	17556.4	27.71
+HPSI_080	12	ARRAYAN FRUIT	Psidium sartorianum	4	22	#CC79A7	Psidium sartorianum (4n)	35.36	13464.2	34.97
+HPSI_059	13	COSTA RICAN GUAVA	Psidium friedrichsthalianum	4	22	#D55E00	Psidium friedrichsthalianum (4n)	50.52	16823.7	35.3
+HPSI_010	14	AMAZON GUAVA	Psidium acutangulum	4	22	#0072B2	Psidium acutangulum (4n)	35.16	17240.2	37.16
+HPSI_072	15	PUERTO RICAN GUAVA	Psidium microphyllum	4	22	#F0E442	Psidium microphyllum (4n)	40.83	19275.7	29.43
+HPSI_069	16	PINEAPPLE GUAVA	Feijoa sellowiana	2	23	#009E73	Feijoa sellowiana (2n)	33.13	14520.6	31.84
+HEUG_001	17	ARAZA FRUIT	Eugenia stipitata	2	24	#56B4E9	Eugenia stipitata (2n)	34.3	13223.9	38.71
+HSYZ_002	18	WATER APPLE	Syzygium aqueum	2	25	#E69F00	Syzygium aqueum (2n)	23.27	22708.5	15.81
+HSYZ_001	19	WAX APPLE	Syzygium samarangense	4	25	#000000	Syzygium samarangense (4n)	20.12	19098.6	1.74
+HSYZ_003	20	WAX APPLE	Syzygium samarangense	4	25	#000000	Syzygium samarangense (4n)	35.15	16641.5	6.9

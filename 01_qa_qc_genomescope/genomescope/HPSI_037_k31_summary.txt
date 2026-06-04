@@ -1,0 +1,15 @@
+GenomeScope version 2.0
+input file = HPSI_037_k31.hist
+output directory = .
+p = 2
+k = 31
+name prefix = HPSI_037_k31
+
+property                      min               max               
+Homozygous (aa)               99.5276%          99.5463%          
+Heterozygous (ab)             0.453722%         0.472416%         
+Genome Haploid Length         421,983,726 bp    422,733,974 bp    
+Genome Repeat Length          133,104,348 bp    133,340,995 bp    
+Genome Unique Length          288,879,378 bp    289,392,979 bp    
+Model Fit                     86.6407%          93.6732%          
+Read Error Rate               0.130808%         0.130808%         

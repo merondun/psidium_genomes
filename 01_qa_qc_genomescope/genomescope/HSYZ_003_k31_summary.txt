@@ -1,0 +1,19 @@
+GenomeScope version 2.0
+input file = HSYZ_003_k31.hist
+output directory = .
+p = 4
+k = 31
+name prefix = HSYZ_003_k31
+
+property                      min               max               
+Homozygous (aaaa)             94.0291%          96.7881%          
+Heterozygous (not aaaa)       3.21192%          5.97087%          
+aaab                          2.33678%          2.41339%          
+aabb                          0.875133%         2.10352%          
+aabc                          0%                0.954715%         
+abcd                          0%                0.499245%         
+Genome Haploid Length         378,347,725 bp    380,122,422 bp    
+Genome Repeat Length          111,761,980 bp    112,286,216 bp    
+Genome Unique Length          266,585,745 bp    267,836,206 bp    
+Model Fit                     86.3966%          96.8318%          
+Read Error Rate               0.193842%         0.193842%         

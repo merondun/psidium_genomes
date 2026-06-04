@@ -1,0 +1,15 @@
+GenomeScope version 2.0
+input file = HEUG_001_k31.hist
+output directory = .
+p = 2
+k = 31
+name prefix = HEUG_001_k31
+
+property                      min               max               
+Homozygous (aa)               0%                100%              
+Heterozygous (ab)             0%                100%              
+Genome Haploid Length         143,783,004 bp    144,681,312 bp    
+Genome Repeat Length          39,629,836 bp     39,877,430 bp     
+Genome Unique Length          104,153,168 bp    104,803,882 bp    
+Model Fit                     87.4955%          90.3264%          
+Read Error Rate               0.623543%         0.623543%         
