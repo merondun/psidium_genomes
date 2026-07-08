@@ -1,4 +1,4 @@
-# 09_repeats
+# 09_repeats/
 
 * Run earlgrey v7.2.2 to annotate TEs and other repeats, plot high level summaries. 
 
@@ -128,13 +128,16 @@ all <- fl_sum %>%
   theme_bw() +
   facet_grid(Group ~ name, scales = 'free', space = 'free_y') +
   scale_fill_manual(values = cols$Color, breaks = cols$ClassSimple) +
-  theme(strip.text.y = element_text(angle = 0)) +
+  theme(strip.text.y = element_text(angle = 0),
+        legend.position='top',
+        legend.text = element_text(size = 5),
+        legend.title = element_text(size = 5)) +
   ylab('') + xlab('Distinct Classifications') +
   scale_x_continuous(breaks = scales::pretty_breaks(n = 3))
 
 all
 ggsave('~/symlinks/guava/figures/20260630_RepeatsHighLevelSummary.pdf',
-       all,dpi=300,height=5,width=6.5)
+       all,dpi=300,height=5.5,width=5)
 
 fl_sum %>% dplyr::select(Sample,Group,ClassSimple,Proportion) %>% pivot_wider(names_from = ClassSimple,values_from=Proportion)
 # Sample   Group                        DNA  LINE   LTR `Non-Repeat` Other (Simple Repeat…¹ Penelope `Rolling Circle`    SINE Unclassified
