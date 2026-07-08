@@ -1,0 +1,10 @@
+genome: /project/coffea_pangenome/Guava/Assemblies/20250101_JustinAssemblies/primary_asm/HEUG_001.fa
+taxid: 1453397
+short_reads:
+  - SRR500513
+  - SRR29331828
+  - SRR29331821
+cmsearch:
+  enabled: false
+trnascan:
+  enabled: false

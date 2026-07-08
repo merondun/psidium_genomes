@@ -1,0 +1,9 @@
+genome: /project/coffea_pangenome/Guava/Assemblies/20250101_JustinAssemblies/primary_asm/HSYZ_002.fa
+taxid: 219865
+short_reads:
+  - SRR24331231
+  - SRR24331240
+cmsearch:
+  enabled: false
+trnascan:
+  enabled: false

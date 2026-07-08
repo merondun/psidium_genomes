@@ -1,15 +1,24 @@
-# *Psidium guajava* evolutionary genomics (assembly → pangenomics → domestication history)
+# *Psidium guajava* evolutionary genomics (assembly → pangenomics)
 
-End-to-end assembly and comparative genomics across *Psidium* and related wild species, including intraspecific pangenomics for *Psidium guajava*, spanning genome QC, assembly, pangenome graph inference, and tracing domestication history with related species.
+End-to-end assembly and comparative genomics across *Psidium* and related wild species, including 11 *Psidium guajava*, spanning genome QC, assembly, pangenome graph inference.
 
-Core sample metadata live in `samples.info`, with read info and input for [puzzler](https://github.com/merondun/puzzler) assembly in `samples.tsv`.
+Metadata in `samples.info`, with read info and input for [puzzler](https://github.com/merondun/puzzler) assembly in `samples.tsv`.
 
 ## Directory map
 
 - [**01_qa_qc_genomescope/**](01_qa_qc_genomescope/) — read/QC and GenomeScope summaries for genome size/heterozygosity context.
 - [**02_genome_assembly/**](02_genome_assembly/) — assembly generation and post-processing notes/scripts.
-- [**03_whole genome alignments/**](03_whole_genome_alignments/) — initial dotplots against a single reference. 
-- [**04_pangenome_inputs/**](04_pangenome_inputs/) — files used for 14-accession primary haplotype pangenome.  
+- [**03_purge_dups_sensitivity/**](03_purge_dups_sensitivity/) — assessing purge_dups params on tetraploid samples.
+- [**04_whole_chromosome_phylogeny/**](04_whole_chromosome_phylogeny/) — infer chr1 phylogeny for sample ordering
+- [**05_whole_genome_alignments/**](05_whole_genome_alignments/) — whole genome alignments using nucmer & dotplots
+- [**06_pangenome/**](06_pangenome/) — *psidium guajava* pangenome.
+- [**07_annotation/**](07_annotation/) — gene annotation including interproscan. 
+- [**08_gene_alignments/**](08_gene_alignments/) — whole genome alignments using genes: jcvi.
+- [**09_repeats/**](09_repeats/) — repeat annotation. 
+- [**10_orthofinder/**](10_orthofinder/) — orthofinder orthogroup annotation and species tree. 
+- [**11_selection_dnds/**](11_selection_dnds/) — dnds along the guava tree. 
+- [**12_flesh_candidates/**](12_flesh_candidates/) — flesh color candidates using the pangenome.
+- [**13_beast/**](13_beast/) — BEAST time dated tree. 
 
 
 ## Overview
@@ -44,7 +53,10 @@ Included are 11 guava (Psidium guajava) and 9 related species. One guava sample 
 Colors:
 
 ```
-md <- read.table('../samples.info',sep='\t',header = TRUE,comment.char = '') %>% as_tibble
+setwd('/project/coffea_pangenome/Guava/Assemblies/20250101_JustinAssemblies/')
+library(tidyverse)
+
+md <- read.table('samples.info',sep='\t',header = TRUE,comment.char = '') %>% as_tibble
 cud_10 <- c(
   "#000000", # black
   "#E69F00", # orange
@@ -63,6 +75,7 @@ spcols %>%
   geom_point(size=5)+
   scale_fill_manual(values=spcols$Color,breaks=spcols$Group)+
   scale_shape_manual(values=spcols$Shape,breaks=spcols$Group)+
+  scale_x_continuous(breaks = seq(min(spcols$Ploidy), max(spcols$Ploidy), by = 1))+
   theme_bw()
 ```
 

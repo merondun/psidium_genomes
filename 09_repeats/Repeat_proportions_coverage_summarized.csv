@@ -1,0 +1,163 @@
+Sample,Group,ClassSimple,Proportion
+HPSI_003,Psidium guajava (3n),DNA,1.91212149987265
+HPSI_003,Psidium guajava (3n),LINE,1.91394466053087
+HPSI_003,Psidium guajava (3n),LTR,18.9515577697234
+HPSI_003,Psidium guajava (3n),Non-Repeat,43.9926426939638
+HPSI_003,Psidium guajava (3n),Other (Simple Repeat, Microsatellite, RNA),3.1886047034463
+HPSI_003,Psidium guajava (3n),Penelope,0
+HPSI_003,Psidium guajava (3n),Rolling Circle,0.296811175362741
+HPSI_003,Psidium guajava (3n),SINE,0.00529534782832964
+HPSI_003,Psidium guajava (3n),Unclassified,30.3696771079663
+HPSI_027,Psidium guajava (2n),DNA,1.86025909953193
+HPSI_027,Psidium guajava (2n),LINE,1.88124130131655
+HPSI_027,Psidium guajava (2n),LTR,19.9143143502575
+HPSI_027,Psidium guajava (2n),Non-Repeat,44.1208823309337
+HPSI_027,Psidium guajava (2n),Other (Simple Repeat, Microsatellite, RNA),3.20801397467726
+HPSI_027,Psidium guajava (2n),Penelope,0
+HPSI_027,Psidium guajava (2n),Rolling Circle,0.387223973056928
+HPSI_027,Psidium guajava (2n),SINE,0.00316679488502689
+HPSI_027,Psidium guajava (2n),Unclassified,29.2824972186543
+HPSI_060,Psidium guajava (2n),DNA,1.78724616735987
+HPSI_060,Psidium guajava (2n),LINE,1.71075545671627
+HPSI_060,Psidium guajava (2n),LTR,18.1049474192308
+HPSI_060,Psidium guajava (2n),Non-Repeat,43.56779029105
+HPSI_060,Psidium guajava (2n),Other (Simple Repeat, Microsatellite, RNA),2.94900680987824
+HPSI_060,Psidium guajava (2n),Penelope,0
+HPSI_060,Psidium guajava (2n),Rolling Circle,0.393754130610117
+HPSI_060,Psidium guajava (2n),SINE,0.00455028177608048
+HPSI_060,Psidium guajava (2n),Unclassified,32.0737742587816
+HPSI_041,Psidium guajava (2n),DNA,1.75183590801538
+HPSI_041,Psidium guajava (2n),LINE,1.75705654667716
+HPSI_041,Psidium guajava (2n),LTR,20.2005886453477
+HPSI_041,Psidium guajava (2n),Non-Repeat,43.8786289296875
+HPSI_041,Psidium guajava (2n),Other (Simple Repeat, Microsatellite, RNA),2.68405240183575
+HPSI_041,Psidium guajava (2n),Penelope,0
+HPSI_041,Psidium guajava (2n),Rolling Circle,0.399059789298351
+HPSI_041,Psidium guajava (2n),SINE,0.00372597973735844
+HPSI_041,Psidium guajava (2n),Unclassified,29.9358866593737
+HPSI_019,Psidium guajava (2n),DNA,1.76902499808986
+HPSI_019,Psidium guajava (2n),LINE,1.68739385250723
+HPSI_019,Psidium guajava (2n),LTR,19.3194860835454
+HPSI_019,Psidium guajava (2n),Non-Repeat,43.5273250062459
+HPSI_019,Psidium guajava (2n),Other (Simple Repeat, Microsatellite, RNA),3.24025786213436
+HPSI_019,Psidium guajava (2n),Penelope,0
+HPSI_019,Psidium guajava (2n),Rolling Circle,0.357361172761237
+HPSI_019,Psidium guajava (2n),SINE,0.00877566792857398
+HPSI_019,Psidium guajava (2n),Unclassified,30.785829037785
+HPSI_007,Psidium guajava (2n),DNA,1.86106912489114
+HPSI_007,Psidium guajava (2n),LINE,1.35622375052584
+HPSI_007,Psidium guajava (2n),LTR,27.0378723668232
+HPSI_007,Psidium guajava (2n),Non-Repeat,43.428784508529
+HPSI_007,Psidium guajava (2n),Other (Simple Repeat, Microsatellite, RNA),3.46079547297907
+HPSI_007,Psidium guajava (2n),Penelope,0
+HPSI_007,Psidium guajava (2n),Rolling Circle,0.442794567939696
+HPSI_007,Psidium guajava (2n),SINE,0.00903468700557189
+HPSI_007,Psidium guajava (2n),Unclassified,23.1624059003028
+HPSI_068,Psidium guajava (2n),DNA,1.99986320110773
+HPSI_068,Psidium guajava (2n),LINE,2.00770180912449
+HPSI_068,Psidium guajava (2n),LTR,21.1676000133345
+HPSI_068,Psidium guajava (2n),Non-Repeat,45.8994327109534
+HPSI_068,Psidium guajava (2n),Other (Simple Repeat, Microsatellite, RNA),1.94377610512321
+HPSI_068,Psidium guajava (2n),Penelope,0
+HPSI_068,Psidium guajava (2n),Rolling Circle,0.408303882197265
+HPSI_068,Psidium guajava (2n),SINE,0.00703038042785274
+HPSI_068,Psidium guajava (2n),Unclassified,27.1640546732825
+HPSI_065,Psidium guajava (2n),DNA,1.92753280253313
+HPSI_065,Psidium guajava (2n),LINE,1.94074105565057
+HPSI_065,Psidium guajava (2n),LTR,19.5469180709923
+HPSI_065,Psidium guajava (2n),Non-Repeat,45.6024990161528
+HPSI_065,Psidium guajava (2n),Other (Simple Repeat, Microsatellite, RNA),1.61828372371819
+HPSI_065,Psidium guajava (2n),Penelope,0
+HPSI_065,Psidium guajava (2n),Rolling Circle,0.322732385986158
+HPSI_065,Psidium guajava (2n),SINE,0.00982986110803581
+HPSI_065,Psidium guajava (2n),Unclassified,29.5769469373986
+HPSI_037,Psidium guajava (2n),DNA,1.92865155441813
+HPSI_037,Psidium guajava (2n),LINE,1.85947421001745
+HPSI_037,Psidium guajava (2n),LTR,22.284902661686
+HPSI_037,Psidium guajava (2n),Non-Repeat,44.5081502156053
+HPSI_037,Psidium guajava (2n),Other (Simple Repeat, Microsatellite, RNA),3.52814196057633
+HPSI_037,Psidium guajava (2n),Penelope,0
+HPSI_037,Psidium guajava (2n),Rolling Circle,0.366114727997787
+HPSI_037,Psidium guajava (2n),SINE,0.00237388138347921
+HPSI_037,Psidium guajava (2n),Unclassified,26.2207202221629
+HPSI_035,Psidium guajava (2n),DNA,1.93419916794202
+HPSI_035,Psidium guajava (2n),LINE,1.91004625749087
+HPSI_035,Psidium guajava (2n),LTR,20.9118945425312
+HPSI_035,Psidium guajava (2n),Non-Repeat,45.1723069601611
+HPSI_035,Psidium guajava (2n),Other (Simple Repeat, Microsatellite, RNA),2.95988875120372
+HPSI_035,Psidium guajava (2n),Penelope,0
+HPSI_035,Psidium guajava (2n),Rolling Circle,0.368632030721071
+HPSI_035,Psidium guajava (2n),SINE,0.0130709699672747
+HPSI_035,Psidium guajava (2n),Unclassified,27.400317296673
+HPSI_016,Psidium guajava (2n),DNA,1.93087456742492
+HPSI_016,Psidium guajava (2n),LINE,2.03447100439644
+HPSI_016,Psidium guajava (2n),LTR,23.6550882124685
+HPSI_016,Psidium guajava (2n),Non-Repeat,44.3896955329377
+HPSI_016,Psidium guajava (2n),Other (Simple Repeat, Microsatellite, RNA),4.20024429632713
+HPSI_016,Psidium guajava (2n),Penelope,0
+HPSI_016,Psidium guajava (2n),Rolling Circle,0.421113017115979
+HPSI_016,Psidium guajava (2n),SINE,0.00660901504214659
+HPSI_016,Psidium guajava (2n),Unclassified,24.1002911939671
+HPSI_080,Psidium sartorianum (4n),DNA,2.22382319380767
+HPSI_080,Psidium sartorianum (4n),LINE,1.70628039291548
+HPSI_080,Psidium sartorianum (4n),LTR,24.3746062264103
+HPSI_080,Psidium sartorianum (4n),Non-Repeat,45.9897914136463
+HPSI_080,Psidium sartorianum (4n),Other (Simple Repeat, Microsatellite, RNA),2.89819696393625
+HPSI_080,Psidium sartorianum (4n),Penelope,0
+HPSI_080,Psidium sartorianum (4n),Rolling Circle,0.606378007274598
+HPSI_080,Psidium sartorianum (4n),SINE,0.00686523920728849
+HPSI_080,Psidium sartorianum (4n),Unclassified,23.0209241778142
+HPSI_059,Psidium friedrichsthalianum (4n),DNA,2.16231905067532
+HPSI_059,Psidium friedrichsthalianum (4n),LINE,1.59713123145596
+HPSI_059,Psidium friedrichsthalianum (4n),LTR,27.6330868801748
+HPSI_059,Psidium friedrichsthalianum (4n),Non-Repeat,44.0103648866959
+HPSI_059,Psidium friedrichsthalianum (4n),Other (Simple Repeat, Microsatellite, RNA),1.90322205900168
+HPSI_059,Psidium friedrichsthalianum (4n),Penelope,0
+HPSI_059,Psidium friedrichsthalianum (4n),Rolling Circle,0.568555129900806
+HPSI_059,Psidium friedrichsthalianum (4n),SINE,0.00863943041631478
+HPSI_059,Psidium friedrichsthalianum (4n),Unclassified,22.8233994430802
+HPSI_010,Psidium acutangulum (4n),DNA,2.6211922968431
+HPSI_010,Psidium acutangulum (4n),LINE,1.74761067519119
+HPSI_010,Psidium acutangulum (4n),LTR,26.9939161496653
+HPSI_010,Psidium acutangulum (4n),Non-Repeat,43.6608587085811
+HPSI_010,Psidium acutangulum (4n),Other (Simple Repeat, Microsatellite, RNA),2.04539706540936
+HPSI_010,Psidium acutangulum (4n),Penelope,0
+HPSI_010,Psidium acutangulum (4n),Rolling Circle,1.06067076214382
+HPSI_010,Psidium acutangulum (4n),SINE,0.00262992661038201
+HPSI_010,Psidium acutangulum (4n),Unclassified,22.7015301130233
+HPSI_072,Psidium microphyllum (4n),DNA,2.43929923705719
+HPSI_072,Psidium microphyllum (4n),LINE,1.83914226435625
+HPSI_072,Psidium microphyllum (4n),LTR,22.1471991575612
+HPSI_072,Psidium microphyllum (4n),Non-Repeat,45.909079011289
+HPSI_072,Psidium microphyllum (4n),Other (Simple Repeat, Microsatellite, RNA),2.90387678772081
+HPSI_072,Psidium microphyllum (4n),Penelope,0
+HPSI_072,Psidium microphyllum (4n),Rolling Circle,0.907564103584478
+HPSI_072,Psidium microphyllum (4n),SINE,0.0108353939166008
+HPSI_072,Psidium microphyllum (4n),Unclassified,24.520036009318
+HPSI_069,Feijoa sellowiana (2n),DNA,1.30824244890204
+HPSI_069,Feijoa sellowiana (2n),LINE,1.18706724095825
+HPSI_069,Feijoa sellowiana (2n),LTR,17.9281761308559
+HPSI_069,Feijoa sellowiana (2n),Non-Repeat,57.9299457167202
+HPSI_069,Feijoa sellowiana (2n),Other (Simple Repeat, Microsatellite, RNA),5.69964989474408
+HPSI_069,Feijoa sellowiana (2n),Penelope,0
+HPSI_069,Feijoa sellowiana (2n),Rolling Circle,0.456383113881259
+HPSI_069,Feijoa sellowiana (2n),SINE,0.00287297834783079
+HPSI_069,Feijoa sellowiana (2n),Unclassified,16.0727357193948
+HEUG_001,Eugenia stipitata (2n),DNA,3.77102532366288
+HEUG_001,Eugenia stipitata (2n),LINE,0.815711331499765
+HEUG_001,Eugenia stipitata (2n),LTR,23.3064624796599
+HEUG_001,Eugenia stipitata (2n),Non-Repeat,51.9570926519205
+HEUG_001,Eugenia stipitata (2n),Other (Simple Repeat, Microsatellite, RNA),6.28277585368314
+HEUG_001,Eugenia stipitata (2n),Penelope,0
+HEUG_001,Eugenia stipitata (2n),Rolling Circle,0.343059163264803
+HEUG_001,Eugenia stipitata (2n),SINE,0.00240871814559549
+HEUG_001,Eugenia stipitata (2n),Unclassified,14.1096963458781
+HSYZ_002,Syzygium aqueum (2n),DNA,2.33141889923474
+HSYZ_002,Syzygium aqueum (2n),LINE,2.64660696156792
+HSYZ_002,Syzygium aqueum (2n),LTR,24.5623674800258
+HSYZ_002,Syzygium aqueum (2n),Non-Repeat,45.5956523709951
+HSYZ_002,Syzygium aqueum (2n),Other (Simple Repeat, Microsatellite, RNA),3.47887901907525
+HSYZ_002,Syzygium aqueum (2n),Penelope,0
+HSYZ_002,Syzygium aqueum (2n),Rolling Circle,1.52500363289224
+HSYZ_002,Syzygium aqueum (2n),SINE,0.00232630527753021
+HSYZ_002,Syzygium aqueum (2n),Unclassified,20.6421357183446

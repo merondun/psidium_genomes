@@ -1,0 +1,14 @@
+genome: /project/coffea_pangenome/Guava/Assemblies/20250101_JustinAssemblies/primary_asm/HPSI_003.fa
+taxid: 120290
+short_reads:
+  - SRR34021006
+  - SRR26158591
+  - SRR26158593
+  - SRR26158595
+  - SRR26158598
+  - SRR26156677
+  - SRR11746930
+cmsearch:
+  enabled: false
+trnascan:
+  enabled: false

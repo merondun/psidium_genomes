@@ -1,0 +1,37 @@
+#	y,	xstart,	xend,	rotation,	color,	label,	va,	bed
+	0.95,	0.2,	0.95,	0,	,	HPSI_003,	top,	HPSI_003.bed
+	0.89,	0.2,	0.95,	0,	,	HPSI_027,	top,	HPSI_027.bed
+	0.84,	0.2,	0.95,	0,	,	HPSI_060,	top,	HPSI_060.bed
+	0.79,	0.2,	0.95,	0,	,	HPSI_041,	top,	HPSI_041.bed
+	0.74,	0.2,	0.95,	0,	,	HPSI_019,	top,	HPSI_019.bed
+	0.68,	0.2,	0.95,	0,	,	HPSI_007,	top,	HPSI_007.bed
+	0.63,	0.2,	0.95,	0,	,	HPSI_068,	top,	HPSI_068.bed
+	0.58,	0.2,	0.95,	0,	,	HPSI_065,	top,	HPSI_065.bed
+	0.53,	0.2,	0.95,	0,	,	HPSI_037,	top,	HPSI_037.bed
+	0.47,	0.2,	0.95,	0,	,	HPSI_035,	top,	HPSI_035.bed
+	0.42,	0.2,	0.95,	0,	,	HPSI_016,	top,	HPSI_016.bed
+	0.37,	0.2,	0.95,	0,	,	HPSI_080,	top,	HPSI_080.bed
+	0.32,	0.2,	0.95,	0,	,	HPSI_059,	top,	HPSI_059.bed
+	0.26,	0.2,	0.95,	0,	,	HPSI_010,	top,	HPSI_010.bed
+	0.21,	0.2,	0.95,	0,	,	HPSI_072,	top,	HPSI_072.bed
+	0.16,	0.2,	0.95,	0,	,	HPSI_069,	top,	HPSI_069.bed
+	0.11,	0.2,	0.95,	0,	,	HEUG_001,	top,	HEUG_001.bed
+	0.05,	0.2,	0.95,	0,	,	HSYZ_002,	bottom,	HSYZ_002.bed
+#       edges
+e,      0,      1,      HPSI_003.HPSI_027.anchors.cols.simple
+e,      1,      2,      HPSI_027.HPSI_060.anchors.cols.simple
+e,      2,      3,      HPSI_060.HPSI_041.anchors.cols.simple
+e,      3,      4,      HPSI_041.HPSI_019.anchors.cols.simple
+e,      4,      5,      HPSI_019.HPSI_007.anchors.cols.simple
+e,      5,      6,      HPSI_007.HPSI_068.anchors.cols.simple
+e,      6,      7,      HPSI_068.HPSI_065.anchors.cols.simple
+e,      7,      8,      HPSI_065.HPSI_037.anchors.cols.simple
+e,      8,      9,      HPSI_037.HPSI_035.anchors.cols.simple
+e,      9,      10,     HPSI_035.HPSI_016.anchors.cols.simple
+e,      10,     11,     HPSI_016.HPSI_080.anchors.cols.simple
+e,      11,     12,     HPSI_080.HPSI_059.anchors.cols.simple
+e,      12,     13,     HPSI_059.HPSI_010.anchors.cols.simple
+e,      13,     14,     HPSI_010.HPSI_072.anchors.cols.simple
+e,      14,     15,     HPSI_072.HPSI_069.anchors.cols.simple
+e,      15,     16,     HPSI_069.HEUG_001.anchors.cols.simple
+e,      16,     17,     HEUG_001.HSYZ_002.anchors.cols.simple
